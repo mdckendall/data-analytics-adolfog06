@@ -16,7 +16,7 @@ class Main {
         System.out.println("$98,345 average salary in South Florida!");
       }
       else if(option==2){
-        System.out.println("US news - 100 Best Jobs!");
+        System.out.println("US News - 100 Best Jobs!");
       }
       else if(option==3){
         System.out.println("Top 10 Forbes In-Demand Jobs!");
