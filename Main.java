@@ -23,6 +23,7 @@ class Main {
       }
       else if(option==4){
           Scanner file = new Scanner(new File("names.txt"));
+          System.out.println("Current Students:");
           while(file.hasNextLine()){
             String line= file.nextLine();
             System.out.println(line);
