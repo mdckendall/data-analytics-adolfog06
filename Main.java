@@ -6,7 +6,7 @@ class Main {
     Scanner user= new Scanner(System.in);
     int option= 0;
     while (option!=5){
-      System.out.println("Press 1 to learn about the salary.");
+      System.out.println("Press 1 to learn about salary.");
       System.out.println("Press 2 to learn about the job.");
       System.out.println("Press 3 to learn about demand.");
       System.out.println("Press 4 to view current students.");
